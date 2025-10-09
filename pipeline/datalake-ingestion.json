@@ -13,7 +13,14 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/fe_timao.98@hotmail.com/pipeline-databricks-azure/notebooks/montando_acesso_aos_dados"
+				},
+				"linkedServiceName": {
+					"referenceName": "databricks_datafactory",
+					"type": "LinkedServiceReference"
+				}
 			}
 		],
 		"annotations": []
