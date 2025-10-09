@@ -1,0 +1,9 @@
+{
+	"name": "databricks-felipe",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0fb46a2-bc05-4025-80ff-b4ba6ab8a9de",
+		"tenantId": "241bfa3d-a59d-4bd9-9c64-f9965939f133"
+	}
+}
