@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "databricks-felipe"
+		},
+		"databricks_datafactory_accessToken": {
+			"value": ""
+		},
+		"databricks_datafactory_properties_typeProperties_existingClusterId": {
+			"value": "1007-032350-czi8hkqn"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
